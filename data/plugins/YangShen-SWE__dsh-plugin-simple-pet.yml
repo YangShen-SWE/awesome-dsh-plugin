@@ -4,4 +4,4 @@ category: usage
 description:
   en: A Windows desktop pet showing official DeepSeek API balance and usage with animated feedback in DSH.
   zh: 在 DSH 中展示 DeepSeek 官方 API 余额与用量，并以动画反馈调用的 Windows 桌宠。
-tarball: https://github.com/YangShen-SWE/dsh-plugin-simple-pet/releases/download/v0.2.2/dsh-plugin-simple-pet.tgz
+tarball: https://github.com/YangShen-SWE/dsh-plugin-simple-pet/releases/latest/download/dsh-plugin-simple-pet.tgz
