@@ -2,6 +2,6 @@ url: https://github.com/YangShen-SWE/dsh-plugin-simple-pet
 name: YangShen-SWE/dsh-plugin-simple-pet
 category: usage
 description:
-  en: A Windows desktop pet for DeepSeek API-key and account usage in DSH, with route-specific balance, call animations, and draggable settings/statistics.
-  zh: 在 DSH 中统计 DeepSeek API Key 与账号调用的 Windows 桌宠，支持路由余额展示、调用动画及可拖动的设置与统计窗口。
+  en: A Windows desktop pet for DeepSeek API-key and account usage in DSH, with route-specific balance, call animations, six skins with local image previews, and draggable settings/statistics.
+  zh: 在 DSH 中统计 DeepSeek API Key 与账号调用的 Windows 桌宠，支持路由余额、调用动画、六款形象的本地图片预览及可拖动的设置与统计窗口。
 tarball: https://github.com/YangShen-SWE/dsh-plugin-simple-pet/releases/latest/download/dsh-plugin-simple-pet.tgz
