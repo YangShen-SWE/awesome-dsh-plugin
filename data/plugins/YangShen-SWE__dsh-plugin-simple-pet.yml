@@ -2,6 +2,6 @@ url: https://github.com/YangShen-SWE/dsh-plugin-simple-pet
 name: YangShen-SWE/dsh-plugin-simple-pet
 category: usage
 description:
-  en: A Windows desktop pet with DeepSeek billing and Codex subscription modes, route-specific balance, remaining 5-hour/week quotas via supported addons, Token/observed-percent animations, six local-preview skins, and draggable settings/statistics.
-  zh: 支持 DeepSeek 计费与 Codex 订阅双模式的 Windows 桌宠，显示路由余额及受支持订阅插件的 5 小时／周剩余额度，提供 Token／实测百分比动画、六款本地预览形象与可拖动的设置及统计窗口。
+  en: A Windows desktop pet with DeepSeek billing and Codex quotas, optional default-off daily local-time and observed 5-hour-reset warm-up, Token/observed-percent animations, six local-preview skins, and draggable settings/statistics.
+  zh: 支持 DeepSeek 计费与 Codex 额度双模式的 Windows 桌宠，新增独立默认关闭的每日本机时间／可靠 5h 重置自动预热，保留 Token／实测百分比动画、六款本地预览形象及可拖动设置和统计。
 tarball: https://github.com/YangShen-SWE/dsh-plugin-simple-pet/releases/latest/download/dsh-plugin-simple-pet.tgz
