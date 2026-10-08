@@ -2,6 +2,6 @@ url: https://github.com/YangShen-SWE/dsh-plugin-simple-pet
 name: YangShen-SWE/dsh-plugin-simple-pet
 category: usage
 description:
-  en: A Windows desktop pet with DeepSeek billing and Codex quotas, resizable responsive settings/statistics without horizontal scrollbars, theme-matched cyan vertical scrollbars, four sizes including tiny, six local-preview skins, PowerShell 5.1-safe atomic saves, configurable quota polling (5 seconds by default), and opt-in deduplicated startup/daily/full-window warm-up with unsent-only retries.
-  zh: 支持 DeepSeek 计费与 Codex 额度双模式的 Windows 桌宠，设置和统计可调整大小、自适应换行且无横向滚动，配套青色圆角纵向滚动条及超小／小／中／大四档尺寸；保留六款本地预览形象、PowerShell 5.1 原子保存修复、默认 5 秒可自定义额度检测，以及默认关闭、持久去重、仅未发送请求可重试的启动／每日／满额窗口预热。
+  en: A Windows desktop pet with DeepSeek billing and Codex quotas, host-native DSH settings/statistics with responsive light/dark themes, explicit-save drafts and hot reload, inert right-click, separate drag-position storage, four sizes including tiny, six local-preview skins, authenticated atomic preference saves, configurable quota polling, and opt-in deduplicated warm-up.
+  zh: 支持 DeepSeek 计费与 Codex 额度的 Windows 桌宠，设置／统计集成到 DSH 原生设置页，适配深浅主题与窄屏；草稿显式保存后热更新，右键无菜单或弹窗，拖动坐标独立保存。保留六款皮肤、四档尺寸、鉴权原子保存、可自定义额度检测，以及默认关闭、持久去重的独立预热开关。
 tarball: https://github.com/YangShen-SWE/dsh-plugin-simple-pet/releases/latest/download/dsh-plugin-simple-pet.tgz
