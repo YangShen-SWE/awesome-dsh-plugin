@@ -1,0 +1,7 @@
+url: https://github.com/YangShen-SWE/dsh-plugin-chat-zoom
+name: YangShen-SWE/dsh-plugin-chat-zoom
+category: ui
+tarball: https://github.com/YangShen-SWE/dsh-plugin-chat-zoom/releases/download/v0.1.0/dsh-plugin-chat-zoom-0.1.0.tgz
+description:
+  en: 'Zoom only DSH chat messages and the input area from 80% to 200% with Ctrl shortcuts or settings controls, remember the level locally, and show a five-second hint without scaling the sidebar or settings pages.'
+  zh: '仅缩放 DSH 聊天消息和输入区，通过 Ctrl 快捷键或设置控件在 80%–200% 间调节，在本地记住倍率并显示五秒提示，不缩放侧栏和设置页。'
