@@ -2,6 +2,6 @@ url: https://github.com/YangShen-SWE/dsh-plugin-simple-pet
 name: YangShen-SWE/dsh-plugin-simple-pet
 category: usage
 description:
-  en: A quiet Windows anime desktop companion for DeepSeek balances and Codex quotas, with six character skins, five interchangeable card themes, gentle feedback and native DSH settings.
-  zh: 陪你工作的 Windows 二次元桌宠：随手查看 DeepSeek 余额与峰谷价格、Codex 额度与重置时间。六款人物与五种信息框自由搭配，支持安静模式、温和反馈和 DSH 原生设置。
+  en: Windows desktop companion for DeepSeek balances and Codex quotas, with interchangeable characters/cards and a panel-only compact mode. Codex quotas require either dsh-codex-subscription or dsh-plugin-subscriptions, signed in and enabled, plus the host public API.
+  zh: Windows 二次元桌宠，查看 DeepSeek 余额与 Codex 额度，人物与卡片自由搭配，支持纯面板简洁模式。Codex 额度需启用并登录 dsh-codex-subscription 或 dsh-plugin-subscriptions（二选一）及宿主公共接口。
 tarball: https://github.com/YangShen-SWE/dsh-plugin-simple-pet/releases/latest/download/dsh-plugin-simple-pet.tgz
